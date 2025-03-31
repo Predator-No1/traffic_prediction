@@ -26,7 +26,7 @@ CLASS_NAMES = {
     11: "Right-of-way at intersection",
     12: "Priority road",
     13: "Yield",
-    14: "Bicycles crossing",
+    14: "Bicycles crossing ",
     15: "No vehicles",
     16: "Vehicles over 3.5 metric tons prohibited",
     17: "Entry prohibited",
